@@ -1,7 +1,9 @@
 # CNC G-Code Generator & Toolpath Visualizer
- 
+ **Generator**
 ![Generator](screenshot_cnc.png)
-![3D Toolpath Visualization](screenshot_cnc.png)
+**3D Toolpath Visualization**
+![3D Toolpath Visualization](screenshot_2d.png)
+**Generated G-Code**
 ![Generated G-Code](screenshot_gcodes.png)
  
 ## Overview
