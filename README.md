@@ -12,7 +12,7 @@ toolpath visualization shows cutting and rapid moves.
 Supports rectangular pockets, circular pockets, and hole patterns.
  
 ## Live Demo
-**[Open Generator](https://your-url.streamlit.app)**
+**[Open Generator](https://cnc-gcode-generator-hv9wqptrakxsv6nbv4mlx8.streamlit.app/)**
  
 ## Features
 - 4 operation types: rect pocket, circular pocket, bolt circle, combined
